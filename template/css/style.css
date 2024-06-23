@@ -1,0 +1,49 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+h1{
+  width: 200px;
+  margin: 10px auto;
+  padding: 0;
+}
+
+ul{
+  margin: 50px auto;
+  width: 300px;
+  padding: 0;
+}
+
+li{
+  list-style: none;
+  background: gray;
+  border: 1px dotted black;
+  margin-top: 10px;
+}
+
+button{
+  width: 60px;
+  margin-left: 600px;
+}
+
+.font{
+  font-family: Arial;
+  color: aqua;
+  background: gray;
+}
+
